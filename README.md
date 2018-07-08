@@ -12,11 +12,11 @@ NgArch(Angular application architecture tool) contains two parts.
 </ul>
 
 <p>ngArch application modules overview</p>
-<img src="https://github.com/samcodex/ngarch/blob/master/assets/ngArch_Modules_Overview.png" width="500px"/>
+<img src="https://github.com/samcodex/ngarch-app/blob/master/assets/ngArch_Modules_Overview.png" width="500px"/>
 <br>
 
 <p>ngArch PonentDiagramModule elements and relationship diagram</p>
-<img src="https://github.com/samcodex/ngarch/blob/master/assets/ngArch_PonentDiagramModule.png" width="500px"/>
+<img src="https://github.com/samcodex/ngarch-app/blob/master/assets/ngArch_PonentDiagramModule.png" width="500px"/>
 
 
 ## Usage
