@@ -10,7 +10,10 @@
   "author": "Samuel Xie<xie.samuel@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@angular/compiler": "^6.0.2",
+    "@angular/compiler": "^6.1.9",
+    "@angular/compiler-cli": "^6.1.9",
+    "@angular/core": "^6.1.9",
+    "@angular/language-service": "^6.1.9",
     "@types/express-flash": "0.0.0",
     "amdefine": "^1.0.1",
     "async": "^2.6.0",
