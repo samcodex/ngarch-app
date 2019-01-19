@@ -39,7 +39,7 @@
     "lusca": "^1.6.1",
     "morgan": "^1.9.1",
     "multer": "^1.4.1",
-    "ngarch": "^1.7.0",
+    "ngarch": "^1.8.1",
     "ngarch-server": "^1.3.4",
     "nodemailer": "^4.6.8",
     "passport": "^0.4.0",
