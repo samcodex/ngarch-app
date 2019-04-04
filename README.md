@@ -11,11 +11,15 @@ NgArch(Angular application architecture tool) contains two parts.
   <li>NgArch, is an Angular 6 application. It visually shows the elements and the structure of the application in multiple diagrams.</li>
 </ul>
 
-<p>ngArch application modules overview</p>
+<p>Display Angular application architecture(ngArch architecture)</p>
+<img src="https://github.com/samcodex/ngarch-app/blob/master/assets/ngapp_views.png" width="500px"/>
+<br>
+
+<p>Display Angular modules(ngArch modules)</p>
 <img src="https://github.com/samcodex/ngarch-app/blob/master/assets/ngArch_Modules_Overview.png" width="500px"/>
 <br>
 
-<p>ngArch PonentDiagramModule elements and relationship diagram</p>
+<p>Display Angular elements and relationship(ngArch PonentDiagramModule diagram)</p>
 <img src="https://github.com/samcodex/ngarch-app/blob/master/assets/ngArch_PonentDiagramModule.png" width="500px"/>
 
 
@@ -34,8 +38,8 @@ then<br>
 ### Access the client
 In browser, enter 'http://localhost:3000'
 
-### Install ngarch-server manually
+### Install ngarch-server(server) manually
 `npm install ngarch-server`
 
-### Install ngarch manually
+### Install ngarch(client) manually
 `npm install ngarch`
